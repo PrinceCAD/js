@@ -10,7 +10,7 @@ and a third
 
 // Declaring variables
 
-var myVariable = 15
+var myVariable = 1;
 let myVariableName = "joel"
 const num = 3.145
 
